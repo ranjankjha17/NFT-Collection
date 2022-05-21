@@ -1,4 +1,5 @@
-export const NFT_CONTRACT_ADDRESS = "0x524F58d9C2411Da875863BEd117411D1421313d1"
+//Crypto Devs Contract Address: 0xc0AA03eDFbb1B118563c13Fe96a7231cE6BAfc57
+export const NFT_CONTRACT_ADDRESS = "0xc0AA03eDFbb1B118563c13Fe96a7231cE6BAfc57"
 
 export const abi =[
     {
